@@ -14,14 +14,14 @@ Dont overtighten the screws as threads might get stripped.
 # Bill Of Materials
 
 * 3d printed case parts
-* 9 Cherry MX style mechanical switches
-* 9 diodes ([tme.eu](https://www.tme.eu/ro/en/details/1n4148-dio/tht-universal-diodes/diotec-semiconductor/1n4148/))
-* 9 keycaps of choice
-* 1 Pro Micro ([Aliexpress](https://www.aliexpress.com/item/32902569443.html))
+* 9 x Cherry MX style mechanical switches
+* 9 x diodes ([tme.eu](https://www.tme.eu/ro/en/details/1n4148-dio/tht-universal-diodes/diotec-semiconductor/1n4148/))
+* 9 x keycaps of choice
+* 1 x Pro Micro ([Aliexpress](https://www.aliexpress.com/item/32902569443.html))
 * 0.5 mm wire
 * hotglue
-* 4 M3x10 Allen head bolts ([tme.eu](https://www.tme.eu/ro/en/details/m3x10_d912-a2/bolts/kraftberg/) / 13mm overall length, 5,5mm diameter head)
-* 4 8mm bumpons
+* 4 x M3x10 Allen head bolts ([tme.eu](https://www.tme.eu/ro/en/details/m3x10_d912-a2/bolts/kraftberg/) / 13mm overall length, 5,5mm diameter head)
+* 4 x 8mm bumpons
 
 # Handwiring guide
 
