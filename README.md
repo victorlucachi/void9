@@ -1,7 +1,7 @@
 # VOID9
 *A 3x3 handwired macropad*
 
-![VOID9](https://i.imgur.com/i6cVnhc.jpg)
+![VOID9](https://i.imgur.com/Db82OaX.jpg)
 
 The VOID9 is a 3d printed, handwired, 4x4 macropad running QMK Firmware on a Pro Micro controller.
 
@@ -11,16 +11,33 @@ You might want/need to use small dabs of hot glue to secure the switches in the 
 
 Dont overtighten the screws as threads might get stripped.
 
-
 # Bill Of Materials
 
-* 9 diodes (tme.eu [link](https://www.tme.eu/ro/en/details/1n4148-dio/tht-universal-diodes/diotec-semiconductor/1n4148/))
-* 9 cherry mx style switches
-* 24 AWG (0.2 mm2) wire
-* Pro Micro
-* EC11 Rotary Encoder (optional / I used a 15mm EC11 clone, mounted to the plate using [this adapter](https://www.thingiverse.com/thing:3770166))
-* 4 M3x10(13mm overall length, 5.5mm diameter head) allen head screws that go through the bottom plate (tme.eu [link](https://www.tme.eu/ro/en/details/m3x10_d912-a2/bolts/kraftberg/))
-* hot glue for securing the pro micro to the bottom case(optional, but recommended)
+* 3d printed case parts
+* 9 Cherry MX style mechanical switches
+* 9 diodes ([tme.eu](https://www.tme.eu/ro/en/details/1n4148-dio/tht-universal-diodes/diotec-semiconductor/1n4148/))
+* 9 keycaps of choice
+* 1 Pro Micro ([Aliexpress](https://www.aliexpress.com/item/32902569443.html))
+* 0.5 mm wire
+* hotglue
+* 4 M3x10 Allen head bolts ([tme.eu](https://www.tme.eu/ro/en/details/m3x10_d912-a2/bolts/kraftberg/) / 13mm overall length, 5,5mm diameter head)
+* 4 8mm bumpons
+
+# Handwiring guide
+
+I've also put together a pretty visual handwiring guide for the VOID9, that you can browse over [here](https://victorlucachi.ro/journal/void9-wiring-guide/).
+
+| ![](https://i.imgur.com/MHTt02w.jpg) 	| ![](https://i.imgur.com/TzdhlCM.jpg) 	| ![](https://i.imgur.com/vTpQaXI.jpg) 	|
+|---------------------------------------	|---------------------------------------	|---------------------------------------	|
+
+# Pin assignment
+
+    ROW0    ROW1    ROW2
+    F4      F5      F6
+    
+    
+    COL0    COL1    COL2
+    D1      D0      D4
 
 # QMK Fork
 
