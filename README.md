@@ -3,8 +3,6 @@
 
 ![VOID9](https://i.imgur.com/Db82OaX.jpg)
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-
 The VOID9 is a 3d printed, handwired, 4x4 macropad running QMK Firmware on a Pro Micro controller.
 
 I suggest printing the case using a 0.4 mm nozzle, supports are not needed for any of the parts.
@@ -46,3 +44,7 @@ I've also put together a pretty visual handwiring guide for the VOID9, that you 
 A fork containing the QMK config files can be found [here](https://github.com/victorlucachi/qmk_firmware/tree/master/keyboards/handwired/void9). Edit them to suit your own needs and build the firmware following the QMK docs.
 
 If you plan on using the VIA keymap dont forget to download the json definitions file linked in this repository.
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
