@@ -27,7 +27,7 @@ Dont overtighten the screws as the threads might get stripped.
 
 I've also put together a pretty visual handwiring guide for the VOID9, that you can browse over [here](https://victorlucachi.ro/journal/void9-wiring-guide/).
 
-| ![](https://i.imgur.com/MHTt02w.jpg) 	| ![](https://i.imgur.com/TzdhlCM.jpg) 	| ![](https://i.imgur.com/vTpQaXI.jpg) 	|
+| ![](https://i.imgur.com/01WknB5.jpg) 	| ![](https://i.imgur.com/GMMczAH.jpg) 	| ![](https://i.imgur.com/5NyUoJY.jpg) 	|
 |---------------------------------------	|---------------------------------------	|---------------------------------------	|
 
 # Pin assignment
