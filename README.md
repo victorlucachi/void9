@@ -11,6 +11,10 @@ You might want/need to use small dabs of hot glue to secure the switches in the 
 
 Dont overtighten the screws as the threads might get stripped.
 
+# Breaking changes
+
+WARNING: The pins mentioned in the guide for the VOID9 are not correct; they've been recently swapped, use the column pinout mentioned below instead (pins D1, D4, D0), or if you have an older build of the macropad (which was using pins D1, D0, D4) edit the info.json file in the qmk fork in order to reflect your wiring!
+
 # Bill Of Materials
 
 * 3d printed case parts
@@ -26,8 +30,6 @@ Dont overtighten the screws as the threads might get stripped.
 # Handwiring guide
 
 I've also put together a pretty visual handwiring guide for the VOID9, that you can browse over [here](https://victorlucachi.ro/journal/void9-wiring-guide/).
-
-WARNING: The pins mentioned in the guide for the VOID9 are not correct. Use the pinout mentioned below instead!
 
 | ![](https://i.imgur.com/01WknB5.jpg) 	| ![](https://i.imgur.com/GMMczAH.jpg) 	| ![](https://i.imgur.com/5NyUoJY.jpg) 	|
 |---------------------------------------	|---------------------------------------	|---------------------------------------	|
