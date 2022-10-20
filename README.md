@@ -26,6 +26,7 @@ Dont overtighten the screws as the threads might get stripped.
 # Handwiring guide
 
 I've also put together a pretty visual handwiring guide for the VOID9, that you can browse over [here](https://victorlucachi.ro/journal/void9-wiring-guide/).
+WARNING: The pins mentioned in the guide for the VOID9 are not correct. Use the pinout mentioned below instead!
 
 | ![](https://i.imgur.com/01WknB5.jpg) 	| ![](https://i.imgur.com/GMMczAH.jpg) 	| ![](https://i.imgur.com/5NyUoJY.jpg) 	|
 |---------------------------------------	|---------------------------------------	|---------------------------------------	|
@@ -37,7 +38,11 @@ I've also put together a pretty visual handwiring guide for the VOID9, that you 
     
     
     COL0    COL1    COL2
-    D1      D0      D4
+    D1      D4      D0
+    
+    Encoder Pad A           Encoder Pad B
+    B1                      F7
+    B2                      B3
 
 # QMK Fork
 
