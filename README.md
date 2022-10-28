@@ -11,9 +11,9 @@ You might want/need to use small dabs of hot glue to secure the switches in the 
 
 Dont overtighten the screws as the threads might get stripped.
 
-# Breaking changes
+# WARNING
 
-WARNING: The pins mentioned in the guide for the VOID9 are not correct; they've been recently swapped, use the column pinout mentioned below instead (pins D1, D4, D0), or if you have an older build of the macropad (which was using pins D1, D0, D4) edit the info.json file in the qmk fork in order to reflect your wiring!
+The pins mentioned in the VOID9 handwiring guide are incorrect; they've been recently swapped: use the column pinout mentioned below instead (pins D1, D4, D0), or if you have an older build of the macropad (which was using pins D1, D0, D4) edit the info.json file in the qmk fork in order to reflect your wiring!
 
 # Bill Of Materials
 
@@ -32,7 +32,7 @@ WARNING: The pins mentioned in the guide for the VOID9 are not correct; they've 
 I've also put together a pretty visual handwiring guide for the VOID9, that you can browse over [here](https://victorlucachi.ro/journal/void9-wiring-guide/).
 
 | ![](https://i.imgur.com/01WknB5.jpg) 	| ![](https://i.imgur.com/GMMczAH.jpg) 	| ![](https://i.imgur.com/5NyUoJY.jpg) 	|
-|---------------------------------------	|---------------------------------------	|---------------------------------------	|
+|---------------------------------------|---------------------------------------|---------------------------------------|
 
 # Pin assignment
 
@@ -47,11 +47,19 @@ I've also put together a pretty visual handwiring guide for the VOID9, that you 
     B1                      F7
     B2                      B3
 
+# QMK Vial Fork
+
+A QMK Vial fork can be found [here](https://github.com/victorlucachi/vial-qmk/tree/dev_void/keyboards/handwired/void9).
+
+Most features are disabled in order for the firmware to fit on the atmega32u4 present on the Pro Micro controllers, but if you want to tinker around with different features or if you're using a different MCU you can enable/disable them to suit your own needs by editing the rules.mk file in the vial keymap folder.
+
+![VOID9 Vial](https://user-images.githubusercontent.com/2669084/198689647-d4c7ffd5-a325-413a-b2e1-e0ccaf95869d.png)
+
 # QMK Fork
 
 A fork containing the QMK config files can be found [here](https://github.com/victorlucachi/qmk_firmware/tree/dev_void/keyboards/handwired/void9). Edit them to suit your own needs and build the firmware following the QMK docs.
 
-If you plan on using the VIA keymap dont forget to download the json definitions file linked in this repository.
+If you plan on using the VIA configurator dont forget to download the json definitions file linked in this repository.
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
