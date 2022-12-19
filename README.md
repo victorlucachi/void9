@@ -13,7 +13,7 @@ Dont overtighten the screws as the threads might get stripped.
 
 # WARNING
 
-The pins mentioned in the VOID9 handwiring guide are incorrect; they've been recently swapped: use the column pinout mentioned below instead (pins D1, D4, D0), or if you have an older build of the macropad (which was using pins D1, D0, D4) edit the info.json file in the qmk fork in order to reflect your wiring!
+Comlumn pinout has been revised, if you have an older build of the macropad (built before October 2022, which was using pins D1, D0, D4) edit the info.json file in the firmware forks in order to reflect your wiring!
 
 # Bill Of Materials
 
