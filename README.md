@@ -27,6 +27,12 @@ Comlumn pinout has been revised, if you have an older build of the macropad (bui
 * 4 x M3x10 Allen head bolts ([tme.eu](https://www.tme.eu/ro/en/details/m3x10_d912-a2/bolts/kraftberg/) / 13mm overall length, 5,5mm diameter head)
 * 4 x 8mm bumpons
 
+# Files
+
+There are two versions of the bottom model: flat and angled; the top (flat or fillet) will fit on either one. The "Bottom - Angled" model also has two variations: regular, designed to be used by itself, and a "short" version, designed to be used with the middle ring (eg. if you want a contrasting color stripe). The short bottom + middle layer will be the same height as the regular bottom.
+
+Teensy 2.0 Support: There is also a version of the "Bottom - Angled - Short" model designed for a [Teensy 2.0 controller](https://www.pjrc.com/store/teensy.html) with a Mini (not "micro") USB port on it.
+
 # Handwiring guide
 
 I've also put together a pretty visual handwiring guide for the VOID9, that you can browse over [here](https://victorlucachi.ro/journal/void9-wiring-guide/).
