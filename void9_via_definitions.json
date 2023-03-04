@@ -2,7 +2,6 @@
     "name":"VOID9",
     "vendorId":"0xF055",
     "productId":"0x3534",
-    "lighting":"none",
     "matrix":{
       "rows":3,
       "cols":3
