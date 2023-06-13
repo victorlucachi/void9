@@ -7,7 +7,7 @@ The VOID9 is a 3d printed, handwired, 4x4 macropad running QMK Firmware on a Pro
 
 I suggest printing the case using a 0.4 mm nozzle, supports are not needed for any of the parts.
 
-You might want/need to use small dabs of hot glue to secure the switches in the plate depending on how well calibrated your printer is(if you're generous with it, it will add to the weight of the keyboard and it might change the feel of it).
+You might want/need to use small dabs of hot glue to secure the switches in the plate depending on how well calibrated your printer is (if you're generous with it, it will add to the weight of the keyboard and it might change the feel of it).
 
 Dont overtighten the screws as the threads might get stripped.
 
@@ -17,15 +17,21 @@ Comlumn pinout has been revised, if you have an older build of the macropad (bui
 
 # Bill Of Materials
 
-* 3d printed case parts
+* 9 x diodes ([tme.eu](https://www.tme.eu/ro/en/details/1n4148-dio/tht-universal-diodes/diotec-semiconductor/1n4148/)/[aliexpress](https://www.aliexpress.com/item/32729204179.html))
 * 9 x Cherry MX style mechanical switches
-* 9 x diodes ([tme.eu](https://www.tme.eu/ro/en/details/1n4148-dio/tht-universal-diodes/diotec-semiconductor/1n4148/))
 * 9 x keycaps of choice
-* 1 x Pro Micro ([Aliexpress](https://www.aliexpress.com/item/32902569443.html))
-* 0.5 mm wire
-* hotglue
-* 4 x M3x10 Allen head bolts ([tme.eu](https://www.tme.eu/ro/en/details/m3x10_d912-a2/bolts/kraftberg/) / 13mm overall length, 5,5mm diameter head)
+* 1 x Pro Micro ([aliexpress](https://www.aliexpress.com/item/32902569443.html))
+* 24 AWG (0.2 mm2) wire
 * 4 x 8mm bumpons
+
+### Redux
+* 6 x M2x3x3.5 OD heat inserts ([aliexpress](https://www.aliexpress.com/item/4000585933306.html?spm=a2g0o.order_list.order_list_main.33.21ef1802vdSNrS))
+* 4 x M2x10 Allen head screws ([aliexpress](https://www.aliexpress.com/item/32966941844.html?spm=a2g0o.order_detail.order_detail_item.9.722ff19cyjrixq))
+* 2 x M2x6 Countersunk screws ([aliexpress](https://www.aliexpress.com/item/32968097507.html?spm=a2g0o.order_list.order_list_main.32.21ef1802vdSNrS))
+
+### V1
+* 4 x M3x10 Allen head bolts ([tme.eu](https://www.tme.eu/ro/en/details/m3x10_d912-a2/bolts/kraftberg/)/[aliexpress](https://www.aliexpress.com/item/32966941844.html))
+* hotglue
 
 # Community Mods
 
