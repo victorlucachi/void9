@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'VOID9 Redux - Pro Micro - Angled.step',
-/* time_stamp */ '2023-06-13T12:03:50+03:00',
+/* time_stamp */ '2023-06-13T13:28:05+03:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v19.2',
@@ -2981,13 +2981,13 @@ SOLID_ANGLE_UNIT()
 #2910=SHAPE_REPRESENTATION('',(#1712,#1884),#2899);
 #2911=SHAPE_REPRESENTATION('',(#1713),#2900);
 #2912=PRODUCT_DEFINITION_CONTEXT('part definition',#2920,'design');
-#2913=PRODUCT_DEFINITION('VOID9 Redux','VOID9 Redux v59',#2915,#2912);
+#2913=PRODUCT_DEFINITION('VOID9 Redux','VOID9 Redux v61',#2915,#2912);
 #2914=PRODUCT_DEFINITION('VOID9 Redux Angled Controller Mount',
 'VOID9 Redux Angled Controller Mount v7',#2916,#2912);
 #2915=PRODUCT_DEFINITION_FORMATION('',$,#2922);
 #2916=PRODUCT_DEFINITION_FORMATION('',$,#2923);
-#2917=PRODUCT_RELATED_PRODUCT_CATEGORY('VOID9 Redux v59',
-'VOID9 Redux v59',(#2922));
+#2917=PRODUCT_RELATED_PRODUCT_CATEGORY('VOID9 Redux v61',
+'VOID9 Redux v61',(#2922));
 #2918=PRODUCT_RELATED_PRODUCT_CATEGORY(
 'VOID9 Redux Angled Controller Mount v7',
 'VOID9 Redux Angled Controller Mount v7',(#2923));
@@ -2996,7 +2996,7 @@ SOLID_ANGLE_UNIT()
 #2920=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #2921=PRODUCT_CONTEXT('part definition',#2920,'mechanical');
-#2922=PRODUCT('VOID9 Redux','VOID9 Redux v59',$,(#2921));
+#2922=PRODUCT('VOID9 Redux','VOID9 Redux v61',$,(#2921));
 #2923=PRODUCT('VOID9 Redux Angled Controller Mount',
 'VOID9 Redux Angled Controller Mount v7',$,(#2921));
 #2924=PRESENTATION_STYLE_ASSIGNMENT((#2925));
